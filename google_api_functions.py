@@ -1,7 +1,7 @@
 import googlemaps
 
 # Again, we need to specify an API key for authorization
-gmapsAPIKey = 'AIzaSyAhxRP3g_goqsIhHzQB7xKueEl7T0Mu-5g'
+gmapsAPIKey = 'AIzaSyCUMMUIy73ysfvKcUTVOsv1ITWD9ojagN4'
 gmaps = googlemaps.Client(key=gmapsAPIKey)
 
 # We will also load some modules to handle dates and times
